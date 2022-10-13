@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-10-13T07:30:16.714Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="zWQltxMPwlnlSDWIQRka" version="20.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-13T07:52:37.966Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="1vSVC2Et7h_LO_PMjNDB" version="20.4.0" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="3474" dy="1988" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3091" dy="1755" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -17,7 +17,7 @@
           <mxGeometry x="170" y="100" width="200" height="270" as="geometry" />
         </mxCell>
         <mxCell id="LRNxqfhm_rSO2q0IiH9v-184" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-720" y="-660" width="560" height="580" as="geometry" />
+          <mxGeometry x="-720" y="-700" width="560" height="620" as="geometry" />
         </mxCell>
         <mxCell id="EA0XSpjeZwfrON8cImh0-8" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="LRNxqfhm_rSO2q0IiH9v-2" target="EA0XSpjeZwfrON8cImh0-4">
           <mxGeometry relative="1" as="geometry" />
@@ -237,6 +237,9 @@
         <mxCell id="LRNxqfhm_rSO2q0IiH9v-189" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;startArrow=none;startFill=0;endArrow=none;endFill=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="LRNxqfhm_rSO2q0IiH9v-180" target="LRNxqfhm_rSO2q0IiH9v-188" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="EA0XSpjeZwfrON8cImh0-64" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="LRNxqfhm_rSO2q0IiH9v-180" target="EA0XSpjeZwfrON8cImh0-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="LRNxqfhm_rSO2q0IiH9v-180" value="서버" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-790" y="-630.5" width="30" height="60" as="geometry" />
         </mxCell>
@@ -398,6 +401,9 @@
         </mxCell>
         <mxCell id="EA0XSpjeZwfrON8cImh0-60" value="서버에 현재 위치 보내기" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-570" y="-150" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EA0XSpjeZwfrON8cImh0-63" value="피시방 지도 전송" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-670" y="-680" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
