@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-03T07:10:12.087Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="R8nw4qZ6OVhaAxvWhaq7" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-03T07:34:00.432Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="v015b33r24OerHDf455F" version="20.5.1" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="4168" dy="2896" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -523,13 +523,31 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mFNXE0b9DkUOCJ4IfjvD-22" value="&amp;lt;&amp;lt;OS&amp;gt;&amp;gt;&lt;br&gt;Linux" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1040" y="-440" width="120" height="60" as="geometry" />
+          <mxGeometry x="1110" y="-485" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mFNXE0b9DkUOCJ4IfjvD-25" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=diamondThin;endFill=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="mFNXE0b9DkUOCJ4IfjvD-24" target="mFNXE0b9DkUOCJ4IfjvD-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mFNXE0b9DkUOCJ4IfjvD-24" value="&amp;lt;&amp;lt;OS&amp;gt;&amp;gt;&lt;br&gt;Windows" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="660" y="-580" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mFNXE0b9DkUOCJ4IfjvD-29" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=diamondThin;endFill=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="mFNXE0b9DkUOCJ4IfjvD-26" target="mFNXE0b9DkUOCJ4IfjvD-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mFNXE0b9DkUOCJ4IfjvD-26" value="초음파 센서" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="770" y="-370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mFNXE0b9DkUOCJ4IfjvD-30" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=diamondThin;endFill=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="mFNXE0b9DkUOCJ4IfjvD-27" target="mFNXE0b9DkUOCJ4IfjvD-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mFNXE0b9DkUOCJ4IfjvD-27" value="GPS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="900" y="-370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mFNXE0b9DkUOCJ4IfjvD-31" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=diamondThin;endFill=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="mFNXE0b9DkUOCJ4IfjvD-28" target="mFNXE0b9DkUOCJ4IfjvD-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mFNXE0b9DkUOCJ4IfjvD-28" value="가속도 센서" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1030" y="-370" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
