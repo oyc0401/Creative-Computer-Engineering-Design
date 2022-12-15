@@ -15,4 +15,8 @@
 센서를 통해 자율주행 할 수 있는 기술 필요
 클라이언트와 서버, 로봇간의 정보 공유
 
-요구 사항 From Sponsor:![image](https://user-images.githubusercontent.com/73932179/207933763-c78af53e-ded3-4205-8e1a-1a9f04ee0eae.png)
+요구 사항 From Sponsor:
+
+6주차 Deployment Diagram:
+
+<img width="742" alt="image" src="https://user-images.githubusercontent.com/73932179/207934830-4473b29e-5b19-46c2-80b2-85a18dd281e8.png">
